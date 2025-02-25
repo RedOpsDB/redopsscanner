@@ -66,6 +66,11 @@ Start scan https://example.com with Wordlist: wordlist.txt
 🔒 URLs Blocked (403) (1):
    - https://example.com/secret
 ```
+## Screenshot
+![1740469395297](https://github.com/user-attachments/assets/1916ec4f-d190-4b5e-b133-8f51a6f81d3d)
+![1740469546016](https://github.com/user-attachments/assets/05cc5f4d-f1ad-49bd-9df3-9fe6d5f74de7)
+
+
 
 ## Disclaimer
 - Do not use this tool on websites without proper authorization. Unauthorized use may be illegal.
